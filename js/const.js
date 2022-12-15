@@ -1,0 +1,2 @@
+export const API_URL = 'https://tortoiseshell-boatneck-screwdriver.glitch.me'; /* https://tortoiseshell-boatneck-screwdriver.glitch.me ,  http://localhost:3024 */
+export const PREFIX_PRODUCT = '/api/product';
